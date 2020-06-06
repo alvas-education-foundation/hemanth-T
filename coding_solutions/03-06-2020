@@ -1,0 +1,12 @@
+Problem Statement: 
+1)Write a python program to check given number is palindrome or not. 
+
+n=input("Enter a number : ") a=n[::-1]
+if n==a:
+
+else:
+ 
+print("\nIt is Palindrome!!")
+
+
+print("\nNot Palindrome!!")
